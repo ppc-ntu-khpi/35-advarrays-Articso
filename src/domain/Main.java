@@ -1,6 +1,5 @@
 package domain;
 import java.util.Arrays;
-
 /**
  * Клас містить методи для роботи з матрицями.
  */
