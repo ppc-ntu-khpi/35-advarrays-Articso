@@ -90,3 +90,4 @@ public class MainTest {
 ```
 
 ***Резльтат виконання програми:***  
+![](https://github.com/ppc-ntu-khpi/35-advarrays-Articso/blob/master/result.png)
